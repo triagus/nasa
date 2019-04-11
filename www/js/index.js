@@ -3,7 +3,7 @@ var app = {
     // Application Constructor
     initialize: function() {
     
-        var url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY";
+        var url = "https://api.nasa.gov/planetary/apod?api_key=TR06ktlSgRj6Ma9NpHv9eURCQw4QOodjobo1ZLYM";
         
         $("#loadImage").click(function(){
             $.ajax({
